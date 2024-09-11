@@ -19,7 +19,7 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 - [x] Under hobbies, create a bulleted or numbered list with some of your hobbies.
 - [x] Add an image to your README
 
-/assets/images/LEGO_Darth.jpg
+![Image of LEGO Darth Vader](/assets/images/LEGO_Darth.jpg)
 
 - [x] Add a link to a website
 
